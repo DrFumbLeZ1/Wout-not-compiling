@@ -1,0 +1,14 @@
+#include  <iostream>
+using namespace std;
+
+int main()
+{
+	wchar_t wc;
+	wc='b';
+	wout<<wc;
+	wc='y';
+	wout<<wc;
+	wc='e';
+	wout<<wc;
+	return 0;
+}
